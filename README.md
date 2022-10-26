@@ -7,4 +7,4 @@ This is a website with four pages and significant use of images. The home page c
 The purpose of the website is to help First Class Interiors advertise their products and services by showcasing their recent projects, prividing information, and providing a channel through which First Class can sell products and be contacted for service work.
 
 # Company Credits
-This website was prepared by Smith Private Limited, consisting of Paul White, Jaxon Orchard, Ronald Lakatos, and Carlin Mancer.
+This website was prepared by Smith Private Limited, consisting of Paul White, Jaxon Orchard, Ronald Lakatos, and Carlin Mancer..
