@@ -1,7 +1,10 @@
 # FirstClass_Interior
-This is a polytec project I am working. It is an example website for a bisness.
-Description of Project + purpose This company is famous for its high-quality interior design solutions for all kinds of premises like houses, restaurants, schools, offices, casinos, and many more. 
 
-First Class Interiors company is looking for a website which should be more interactive and user friendly. The target of the company is to promote their business country-wide so that they could earn more benefits. 
+# Description of Project
+This is a website with four pages and significant use of images. The home page contains 12 images organized under four headings, each representing a different category of project. The shop page contains a number of product cards (including images and descriptions), and also an embedded video. The about page contains staff biographies and includes scripts to hide staff biographies and to swap the CEO and managing director pages. The contact page contains a form as well as more scripts for style changing.
 
-Company Credit goes to Smith Private limited
+# Purpose
+The purpose of the website is to help First Class Interiors advertise their products and services by showcasing their recent projects, prividing information, and providing a channel through which First Class can sell products and be contacted for service work.
+
+# Company Credits
+This website was prepared by Smith Private Limited, consisting of Paul White, Jaxon Orchard, Ronald Lakatos, and Carlin Mancer.
